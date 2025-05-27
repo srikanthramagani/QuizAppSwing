@@ -83,10 +83,5 @@ Answer: A
 🔗 GitHub
 📧srikanthramagani@gmail.com
 
-📄 License
-
----
-
-Let me know if you'd like the `questions.txt` format or example code files to go with this.
 
 
